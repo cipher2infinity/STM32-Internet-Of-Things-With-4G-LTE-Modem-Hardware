@@ -1,4 +1,4 @@
-# New-Course
+# New Course
 
 Note : Click [here](https://www.google.com) to recieve notification on the release of course 
 
