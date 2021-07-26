@@ -1,4 +1,4 @@
-# STM32 : Internet Of Things With 4G LTE Modem
+# STM32 : Internet Of Things With 4G LTE Modem - Hardware
 
 Release Date : 1 August 
 
