@@ -2,5 +2,5 @@
 
 You can check the course curriculum on our [WEBSITE](https://www.cipher2infinity.com/)
 
-![](Hardware Images/Course Hardware.jpg)
+![](Datalogger%20Images/DataLogger%20Image.jpg)
 
